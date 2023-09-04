@@ -1,0 +1,43 @@
+
+.App{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; 
+
+
+}
+.parent-box{
+  background-color: rgb(67, 202, 33);
+
+  text-align: center; 
+  display:flex;
+  flex-direction: row;
+  height: 400px; 
+
+
+
+}
+
+.result-box{
+  background-color: hsla(241, 72%, 46%, 1);
+  border-radius: 10px;
+  text-align: center; 
+  width: 200px;
+  height: 300px;  /* How do i make div stretch to fit words */
+
+
+}
+
+
+.summary-box{
+  background-color:  hsla(241, 72%, 46%, 1);
+  border-radius: 10px;
+  text-align: center; 
+  width: 200px;
+  height: 300px;  /* How do i make div stretch to fit words */
+
+
+}
+
